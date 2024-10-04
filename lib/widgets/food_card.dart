@@ -108,7 +108,7 @@ class FoodCard extends StatelessWidget {
                   fixedSize: const Size(30, 30),
                 ),
                 iconSize: 20,
-                icon: food.isLiked!
+                icon: food.isLiked //!
                     ? const Icon(
                         Iconsax.heart5,
                         color: Colors.red,

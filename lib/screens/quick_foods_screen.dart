@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:food_example/models/food.dart';
 import 'package:food_example/widgets/food_card.dart';
 import 'package:food_example/widgets/quick_screen_appbar.dart';
-import 'package:iconsax/iconsax.dart';
+
 
 class QuickFoodsScreen extends StatefulWidget {
   const QuickFoodsScreen({super.key});

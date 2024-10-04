@@ -26,7 +26,7 @@ class HomeSearchBar extends StatelessWidget {
             child: TextField(
               decoration: InputDecoration(
                 border: InputBorder.none,
-                hintText: "Search any recipes",
+                hintText: "Search Ethiopian recipes",
                 hintStyle: TextStyle(
                   color: Colors.grey,
                 ),

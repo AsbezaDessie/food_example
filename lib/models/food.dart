@@ -20,8 +20,8 @@ class Food {
 
 final List<Food> foods = [
   Food(
-    name: "Spicy Ramen Noodles",
-    image: "assets/images/ramen-noodles.jpg",
+    name: "Doro wet/chicken", //"doro wet/Eth-chiken"
+    image: "assets/images/dorow.jpg",
     cal: 120,
     time: 15,
     rate: 4.4,
@@ -29,7 +29,7 @@ final List<Food> foods = [
     isLiked: false,
   ),
   Food(
-    name: "Beef Steak",
+    name: "Tibs/Fried beef", //"tibs/fired"
     image: "assets/images/beaf-steak.jpg",
     cal: 140,
     time: 25,
@@ -38,7 +38,7 @@ final List<Food> foods = [
     isLiked: true,
   ),
   Food(
-    name: "Butter Chicken",
+    name: "Kitfo/Steak tartare", //"kitfo/meat suchi"
     image: "assets/images/butter-chicken.jpg",
     cal: 130,
     time: 18,
@@ -47,7 +47,7 @@ final List<Food> foods = [
     isLiked: false,
   ),
   Food(
-    name: "French Toast",
+    name: "Katenga/Roll pancake", //"katenga/frenmented pancake/ roll pancake"
     image: "assets/images/french-toast.jpg",
     cal: 110,
     time: 16,
@@ -56,7 +56,7 @@ final List<Food> foods = [
     isLiked: true,
   ),
   Food(
-    name: "Dumplings",
+    name: "Genfo/Porage", //"Genfo/porage"
     image: "assets/images/dumplings.jpg",
     cal: 150,
     time: 30,
@@ -65,7 +65,7 @@ final List<Food> foods = [
     isLiked: false,
   ),
   Food(
-    name: "Mexican Pizza",
+    name: "Anbasha/Pizza", //"anbasha/pizza"
     image: "assets/images/mexican-pizza.jpg",
     cal: 140,
     time: 25,
